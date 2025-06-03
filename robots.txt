@@ -8,4 +8,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: http://b.nikkibivens.com/sitemap.xml
+Sitemap: http://web.jessjacobswins.com/sitemap.xml
